@@ -1,6 +1,6 @@
 # Hey there! My name is Katie Guo.
 
-### I study Statistics and Machine Learning at Carnegie Mellon University. 
+### I study Statistics/Machine Learning and Computer Science at Carnegie Mellon University. 
 
 I currently TA [15-122: Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) and contribute math problems to [CMIMC](https://cmimc.math.cmu.edu/). 
 
