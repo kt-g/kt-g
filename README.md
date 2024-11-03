@@ -1,6 +1,6 @@
 # Greetings! My name is Katie.
 
-### I study Statistics and Computer Science at Carnegie Mellon University. 
+### I study Computer Science and Statistics at Carnegie Mellon University. 
 
 Right now, I'm mainly interested in multimodal machine learning, but some of my secondary interests include Bayesian statistics and parallel computing. 
 
