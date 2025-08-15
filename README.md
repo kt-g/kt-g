@@ -1,11 +1,11 @@
-# Greetings! My name is Katie.
+# Hi, I'm Katie.
 
 ### I study Computer Science and Statistics at Carnegie Mellon University. 
 
-I'm broadly interested in machine learning, with a particular interest in multimodal machine learning and Bayesian statistics. 
+I'm broadly interested in machine learning, with a particular curiosity about multimodal machine learning and Bayesian statistics. 
 
-This summer I will be working on infrastructure at LinkedIn. 
+This summer, I interned at LinkedIn as a Software Engineer on the Media Infrastructure team, working on ML-powered video insights. Before that, I was at Apple Maps building unsupervised machine learning systems to test iOS 18 features.
 
-I spent the past summer as a Software Engineer Intern at Apple Maps working on unsupervised machine learning for exhaustively testing iOS 18 features. I used to TA [10423/623: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/) (F24) and [15122: Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) (F23, S24) and previously interned at Dualitas Capital Management LLC. In high school, I worked on bioinformatics research at the [Robinson Lab @ Stanford University](https://robinsonlab.stanford.edu/). 
+I used to TA [10423/623: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/) (F24) and [15122: Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) (F23, S24). I've also interned at Dualitas Capital Management LLC, researched osteoarthritis at Stanford University, and written a lot of code that probably shouldn't have worked but did. 
 
-Beyond STEM, I am interested in philosophy and essay-writing. I have a lot of scattered thoughts on various topics; perhaps I will put pen to paper one day. 
+When I'm not going crazy debugging or trying to solve a problem, I’m usually collecting half-formed ideas that might one day become essays. Still waiting for the right excuse to write them.
