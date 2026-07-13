@@ -1,7 +1,9 @@
-Hello! I'm Katie, and I study CS + Stats at CMU. I TA [Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) and do research at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/). I've also TAed [Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/) and written math problems for [CMIMC](https://cmimc.math.cmu.edu/). 
+Hello, I'm Katie. 
 
-I'm broadly interested in machine learning, and I care deeply about how AI can be used to augment and improve our lives. 
+I am a Codepoint Fellow at [Sutter Hill Ventures](https://shv.com/) and work on deployed engineering at [Luminary](https://luminary.ai/). 
 
-Previously, I maximized video engagement at LinkedIn, built testing frameworks at Apple, analyzed stocks at Dualitas Capital Management, and researched osteoarthritis at Stanford Medicine.  
+I recently graduated from CMU where I also TAed [Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) and [Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/), researched agents at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/), and wrote math problems for [CMIMC](https://cmimc.math.cmu.edu/). 
 
-When I'm not going crazy trying to solve a problem, I’m often collecting half-formed ideas that might one day become essays. One day.
+I also previously interned at LinkedIn, Apple, Dualitas Capital Management, and Stanford Medicine. 
+
+I'm broadly interested in machine learning, and I care deeply about how AI can be used to augment and improve our lives. I don’t think we’ll be replaced just yet. After all, people are way cooler :)
