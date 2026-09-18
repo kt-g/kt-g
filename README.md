@@ -1,6 +1,6 @@
-Hello, I'm Katie. 
+Hello, my name is Katie. 
 
-I am a fellow at a venture capital firm and currently work as a deployed engineer at [Luminary](https://luminary.ai/), where I focus on efficient transfer learning for large physics models. 
+I am a fellow at [SHV](https://shv.com/) and currently work as a deployed engineer at [Luminary](https://luminary.ai/). 
 
 I recently graduated from CMU, where I TAed [Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/) and [Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/), researched agents at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/), and wrote math problems for [CMIMC](https://cmimc.com/). 
 
